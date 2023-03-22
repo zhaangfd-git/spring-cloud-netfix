@@ -1,0 +1,21 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        namespace: public #指定服务发到指定的namespace上
+        group: public #指定服务发到指定的分组上
+feign:
+  client:
+    config:
+      nacos-config:
+        connectTimeout: 30000
+        readTimeout: 20000
+      default:
+        encoder: com.sspring.netfix.study.feign.JsonEncoder
+        decoder: com.sspring.netfix.study.feign.JsonDecoder
+        requestInterceptors: com.sspring.netfix.study.feign.MyRequestInterceptor
+nacos-config:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.sspring.netfix.study.feign.TestRule
+ribbon:
+  ReadTimeout: 200000

@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        namespace: public #指定服务发到指定的namespace上
+        group: public #指定服务发到指定的分组上
