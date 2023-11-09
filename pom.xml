@@ -12,6 +12,7 @@
         <module>spring-cloud-feignRibbon-server</module>
         <module>spring-cloud-feignRibbon-client</module>
         <module>spring-cloud-feignRibbon-server2</module>
+        <module>spring-clound-aop</module>
     </modules>
 
 

@@ -19,13 +19,5 @@ bspring-cloud-feignRibbon-client/src/main/java/com/sspring/netfix/study/feign/Te
 cspring-cloud-feignRibbon-server2/src/main/java/com/sspring/netfix/study/NacosClientApplication.java,0\a\0adbb39dc603e4a2925fa2a76bb3a339ec9f1487
 Ÿ
 ospring-cloud-feignRibbon-server/src/main/java/com/sspring/netfix/study/feign/server/NacosClientApplication.java,8\5\85e2d39f7830600e7874ce8a6b5cfb135bd16e61
-W
-'spring-cloud-feignRibbon-client/pom.xml,0\d\0d16ceb14cc11be447d8a4c103a67c638cef73be
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-˜
-hspring-cloud-feignRibbon-client/src/main/java/com/sspring/netfix/study/feign/NacosClientApplication.java,b\f\bf0b774bee68a42bfff0391ee137bbdd9c24e38c
 —
 gspring-cloud-feignRibbon-client/src/main/java/com/sspring/netfix/study/feign/MyApplicationListener.java,1\0\100f365fb7165d16ddfb1aa1e3e720105d5b829e
-œ
-lspring-cloud-feignRibbon-client/src/main/java/com/sspring/netfix/study/feign/MyBeanFactoryPostProcessor.java,1\3\13129545d2d73c54592988273d839193fc3611ac
