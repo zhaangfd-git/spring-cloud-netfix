@@ -18,6 +18,7 @@
       <module name="spring-cloud-feignRibbon-client" options="-parameters" />
       <module name="spring-cloud-feignRibbon-server" options="-parameters" />
       <module name="spring-cloud-feignRibbon-server2" options="-parameters" />
+      <module name="spring-cloud-netfix" options="-parameters" />
       <module name="spring-clound-aop" options="-parameters" />
     </option>
   </component>
